@@ -22,7 +22,7 @@
   var data = window.APP_DATA;
 
   // Cache buster for tile assets
-  var cacheBuster = 'v=250703-1423';
+  var cacheBuster = 'v=250703-1424';
 
   // Grab elements from DOM.
   var panoElement = document.querySelector('#pano');
